@@ -1,0 +1,29 @@
+commit 4513937e8b3edc09cd0c301faa8e945679c5905d
+Author: Paola <paoagui92@gmail.com>
+Date:   Mon Jan 20 19:28:16 2020 -0400
+
+    Menu dropdown y formato a menu hamburguesa
+
+commit 19b14bbcc1aca3f8ddce2b934d563f830b8b16ab
+Author: Paola <paoagui92@gmail.com>
+Date:   Mon Jan 20 18:36:34 2020 -0400
+
+    Agregamos Navbar y Menu
+
+commit e729254df85786a12aa76537cafd2e8a2af0a5f2
+Author: Paola <paoagui92@gmail.com>
+Date:   Mon Jan 20 17:55:35 2020 -0400
+
+    Colocamos caption a las imagenes del carousel
+
+commit e3ad85287f16e590712c2f8b4dc2142059453f2c
+Author: Paola <paoagui92@gmail.com>
+Date:   Mon Jan 20 17:04:18 2020 -0400
+
+    Incluye carousel y flechas de desplazamiento
+
+commit f4c38f5f216a1f2f4ec45f80f96f51fd13a92f39
+Author: Paola <paoagui92@gmail.com>
+Date:   Mon Jan 20 16:54:57 2020 -0400
+
+    Inicio del proyecto
